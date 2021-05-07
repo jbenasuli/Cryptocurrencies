@@ -3,3 +3,9 @@
 
 # local-files folder
 local-files/
+
+#notebook checkpoints
+.ipynb_checkpoints/
+
+# data
+crypto_data.csv
